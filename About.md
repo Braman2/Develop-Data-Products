@@ -20,3 +20,7 @@ This program will be executed. You can change the value of Margin %.
 On pressing "Go" button, new price and calculated margin will be displayed.
 
 I have used reactive statement to display second table.
+
+
+Code is also available in 
+https://ramanbalu.shinyapps.io/ddp-Project
